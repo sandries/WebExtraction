@@ -1,0 +1,11 @@
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HotelDownloader.pdb
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\obj\Debug\HotelDownloader.pdb
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HtmlAgilityPack.dll
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HtmlAgilityPack.pdb
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HtmlAgilityPack.xml
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\Newtonsoft.Json.dll
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\Newtonsoft.Json.xml
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HotelDownloader.dll.config
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\bin\Debug\HotelDownloader.dll
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\obj\Debug\HotelDownloader.dll
+D:\hq PLUS\task 1\HotelDownloader\HotelDownloader\obj\Debug\HotelDownloader.csprojResolveAssemblyReference.cache
