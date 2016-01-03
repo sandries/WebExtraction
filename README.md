@@ -1,6 +1,6 @@
 # Web Extraction Utility
 
-This is a data extractor that reads out content from `booking.com` hotel details pages and extracts the below listed information.
+This is a data extractor that reads out content from `booking.com` hotel details pages and extracts information.
 
 ### How to test :
    In order to see the results, open the solution that included the windows forms application 
